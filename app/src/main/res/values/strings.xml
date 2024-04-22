@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dolivka</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="button">Рассчитать</string>
+    <string name="hint1">Уровень сейчас</string>
+    <string name="hint2">Температура сейчас</string>
+</resources>
